@@ -1,4 +1,15 @@
-# Conceptual Flat Earth Model
+# Conceptual Flat Earth Model - FRAUD!!!
+
+This project is forked from [AlanSpaceAudits/conceptual-flat-earth-model](https://github.com/AlanSpaceAudits/conceptual_flat_earth_model) on 5/7/2026. In plain terms, this is a complete misrepresentation: it presents itself like a working flat-earth proof, but under the hood it relies on conventional globe-style latitude/longitude coordinates, sidereal/astronomical calculations, and projection math, then draws the results on the flat earth map. That visual packaging can fool viewers into thinking they are seeing independent flat-earth physics when they are mostly seeing projected globe calculations rendered in a different style. The original readme contents are preserved below for reference, but this repo is being reframed as "Projection Misrepresentation Receipts" so people can quickly see what is actually being computed and displayed.
+
+Evidence and breakdowns:
+
+- Full technical audit: [projection_misrepresentation_audit.md](projection_misrepresentation_audit.md)
+- One-page receipts summary: [projection_misrepresentation_receipts.md](projection_misrepresentation_receipts.md)
+
+
+--- 
+# Original README (for reference)
 
 An interactive, browser-based conceptual model of the flat-earth cosmology built
 with three.js. The scene draws the stationary disc, the observer's optical
